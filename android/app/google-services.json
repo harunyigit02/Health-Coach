@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1060651931421",
+    "project_id": "myproject-cc3ec",
+    "storage_bucket": "myproject-cc3ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060651931421:android:8a5e2ca953a3bc39bdb3f4",
+        "android_client_info": {
+          "package_name": "com.example.asdasdasd2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_Vlz73T6_jxZeg4KKHxHJkZpzlkRaOWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060651931421:android:585ff9cc48ed50ecbdb3f4",
+        "android_client_info": {
+          "package_name": "com.example.yeniflutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_Vlz73T6_jxZeg4KKHxHJkZpzlkRaOWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
